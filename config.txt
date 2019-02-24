@@ -1,0 +1,6 @@
+owner=486141054677155860
+prefix=1
+game=Creativity 1play
+stayinchannel=true
+songinstatus=false
+token=NTQ5Mjg5NDk5NDU3MjI0NzA0.D1RvUg.jPKtMDuh-vnF0s1I2m-TL8rAaTk
